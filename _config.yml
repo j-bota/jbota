@@ -1,0 +1,10 @@
+title: Test site
+description: Demo showing markdown in, HTML out
+author: Jbota
+
+markdown: kramdown
+
+exclude:
+  - README.md
+  - DNS-CHECKLIST.md
+  - CNAME.example
